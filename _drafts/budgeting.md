@@ -27,6 +27,3 @@
 
 
 > Щоб додати коментар перейдіть за [посиланням](https://drive.google.com/file/d/151Fw8yNkpEeuaPa5S5I1cDx9BrJ8aSts/view?usp=sharing).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzQ0OTQyNF19
--->
