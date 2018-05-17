@@ -1,5 +1,5 @@
 ## Історія
-<img src="_images/UrbanSpace100.png" alt="Urban Space 100" align="right"/>
+<img src="_images/UrbanSpace100.png" width="378" height="246" alt="Urban Space 100" align="right"/>
 27 грудня 2014 року в Івано-Франківську відкрився громадський ресторан [Urban Space 100](http://urbanspace.if.ua/uk). Його засновниками стали "100 соціально активних людей, яких об’єднує ідея якісного розвитку міського простору». Прибуток від діяльності ресторану спрямовується на фінансування міських проектів.
 
 <img src="http://iset-ua.org/images/20170730/07092017/tamogny1.jpg" width="240" height="170" alt="Схеми ухилення та уникнення оподаткування" align="left"/>
