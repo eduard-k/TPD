@@ -24,3 +24,6 @@
 ### v0.2
 
 - Переглянуто мету проекту
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY4ODY5MDYwMF19
+-->
