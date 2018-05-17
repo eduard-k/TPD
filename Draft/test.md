@@ -4,7 +4,7 @@
 
 Файл змінено в GitHub
 
-Файл пере
+Файл перенесено в іншу папку на GitHub
 
 ---
 27 грудня 2014 року в Івано-Франківську відкрився громадський ресторан [Urban Space 100](http://urbanspace.if.ua/uk). Його засновниками стали "100 соціально активних людей, яких об’єднує ідея якісного розвитку міського простору». Прибуток від діяльності ресторану спрямовується на фінансування міських проектів.
@@ -18,5 +18,5 @@ eyJoaXN0b3J5IjpbLTExMTMxMjM2NDMsMTU4MDI1NTMzNSwtMj
 A4MDY1NzY4OV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg1ODI0MjNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjkyNTg4NzldfQ==
 -->
