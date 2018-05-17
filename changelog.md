@@ -1,6 +1,7 @@
 ### v0.8
 
 - Сайт перенесено на GitHub
+- Коротке посилання на сайт http://cli.re/6JyN9b
 
 ### v0.7
 
@@ -28,9 +29,3 @@
 ### v0.2
 
 - Переглянуто мету проекту
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzQyMjI2NCwtNjg4NjkwNjAwXX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjcxMzI4Ml19
--->
