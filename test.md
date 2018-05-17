@@ -1,3 +1,5 @@
+<img src="/images/UrbanSpace100.png"/>
+
 <img src="/images/UrbanSpace100.png" width="189" height="123" alt="Urban Space 100" align="right"/>
 текст
 
