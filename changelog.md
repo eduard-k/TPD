@@ -1,3 +1,7 @@
+### v0.8
+
+- Сайт перенесено на GitHub
+
 ### v0.7
 
 - Змінено опис проекту на сайті
@@ -25,5 +29,5 @@
 
 - Переглянуто мету проекту
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODY5MDYwMF19
+eyJoaXN0b3J5IjpbMTYyNzQyMjI2NCwtNjg4NjkwNjAwXX0=
 -->
