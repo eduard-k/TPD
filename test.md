@@ -1,6 +1,6 @@
 ![Urban Space 100](/images/UrbanSpace100.png)
 
-<img src="/images/UrbanSpace100.png" width="189" height="123" alt="Urban Space 100" align="right"/>
+<img src="/TPD/images/UrbanSpace100.png" width="189" height="123" alt="Urban Space 100" align="right"/>
 текст
 
 Файл змінено в StackEdit
