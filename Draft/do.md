@@ -23,3 +23,6 @@
 - Поточний реліз - MLO
 
 Перелік програм в описі проекту в MLO
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA3NzQwMDI5Nl19
+-->
