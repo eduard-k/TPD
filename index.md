@@ -32,13 +32,10 @@
 Проект знаходиться на стадії альфа - будь ласка не росповсюджуйте посилання на нього публічно.
 
 ### Як долучитись
-- Залишити [відгук або запитання](https://prostir.tumblr.com/ask)
-
-### Як долучитись
-- Підписатись на [тлог проекту](https://prostir.tumblr.com) та/або залишити відгук
-- Запропонувати дієві організації, з яких варто запросити підприємців
+- Підписатись на [тлог проекту](https://prostir.tumblr.com) та залишити [відгук або запитання](https://prostir.tumblr.com/ask)
+- Запропонувати дієві організації підприємців
 - Draft / StackEdit / GitHub - запропонувати зміни до цього сайту
-- LeanStack / Loomio - стати учасником проекту- робота у стартапі
+- LeanStack / Loomio - стати учасником проекту - робота у стартапі
 
 Суттєвою частиною проекту є використання інформаційних технологій, підходів зі світу open source та стартапів у суспільних проектах. Лог проекту за [посиланням](https://eduard-k.github.io/TPD/changelog).
 або написати особисто [@eduard_k](https://twitter.com/eduard_k)
@@ -46,6 +43,7 @@
 eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
 -->tpd.withdraft.com/pages/1193055).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ4MTMwNTIsNzA2MjY5NDE2LC00MT
-g5ODAzMDIsNzQ3Njc1MjI4LC04Njg0Mzk4OF19
+eyJoaXN0b3J5IjpbLTc5NzA4ODQxOSwtMTM1NDgxMzA1Miw3MD
+YyNjk0MTYsLTQxODk4MDMwMiw3NDc2NzUyMjgsLTg2ODQzOTg4
+XX0=
 -->
