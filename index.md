@@ -42,9 +42,9 @@
 [@eduard_k](https://twitter.com/eduard_k)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
--->tpd.withdraft.com/pages/1193055).
+-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mzk0Nzg4LC0xMzU0ODEzMDUyLDcwNj
-I2OTQxNiwtNDE4OTgwMzAyLDc0NzY3NTIyOCwtODY4NDM5ODhd
-fQ==
+eyJoaXN0b3J5IjpbLTEwNzU0ODMyODksLTEzNTQ4MTMwNTIsNz
+A2MjY5NDE2LC00MTg5ODAzMDIsNzQ3Njc1MjI4LC04Njg0Mzk4
+OF19
 -->
