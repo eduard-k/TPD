@@ -32,7 +32,7 @@
 Проект знаходиться на стадії альфа - будь ласка не росповсюджуйте посилання на нього публічно.
 
 ### Як долучитись
-- Підписатись на [тлог проекту](https://prostir.tumblr.com) та залишити [відгук або запитання](https://prostir.tumblr.com/ask)
+- Підписатись на [тлог проекту](https://prostir.tumblr.com), залишити [відгук або запитання](https://prostir.tumblr.com/ask)
 - Запропонувати дієві організації підприємців
 - Draft / StackEdit / GitHub - запропонувати зміни до цього сайту
 - LeanStack / Loomio - стати учасником проекту - робота у стартапі
@@ -44,7 +44,7 @@
 eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU0ODMyODksLTEzNTQ4MTMwNTIsNz
-A2MjY5NDE2LC00MTg5ODAzMDIsNzQ3Njc1MjI4LC04Njg0Mzk4
-OF19
+eyJoaXN0b3J5IjpbMzIwNTk0MzEzLC0xMDc1NDgzMjg5LC0xMz
+U0ODEzMDUyLDcwNjI2OTQxNiwtNDE4OTgwMzAyLDc0NzY3NTIy
+OCwtODY4NDM5ODhdfQ==
 -->
