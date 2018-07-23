@@ -32,7 +32,7 @@
 Проект знаходиться на стадії альфа - будь ласка не росповсюджуйте посилання на нього публічно.
 
 ### Як долучитись
-- Залишити [відгук або запитання](https://prostir.tumblr.com/ask) або написати особисто [@eduard_k](https://twitter.com/eduard_k)
+- Залишити [відгук або запитання](https://prostir.tumblr.com/ask)
 
 ### Як долучитись
 - Підписатись на [тлог проекту](https://prostir.tumblr.com) та/або залишити відгук
@@ -41,10 +41,11 @@
 - LeanStack / Loomio - стати учасником проекту- робота у стартапі
 
 Суттєвою частиною проекту є використання інформаційних технологій, підходів зі світу open source та стартапів у суспільних проектах. Лог проекту за [посиланням](https://eduard-k.github.io/TPD/changelog).
+або написати особисто [@eduard_k](https://twitter.com/eduard_k)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
 -->tpd.withdraft.com/pages/1193055).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MjY5NDE2LC00MTg5ODAzMDIsNzQ3Nj
-c1MjI4LC04Njg0Mzk4OF19
+eyJoaXN0b3J5IjpbLTEzNTQ4MTMwNTIsNzA2MjY5NDE2LC00MT
+g5ODAzMDIsNzQ3Njc1MjI4LC04Njg0Mzk4OF19
 -->
