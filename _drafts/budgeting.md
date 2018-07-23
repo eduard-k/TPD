@@ -26,7 +26,7 @@
 Член організації може запропонувати витратити Звичайні резерви з певною метою. Рішення щодо Звичайних резервів приймається всіма членами організації.
 
 
-> Щоб додати коментар перейдіть за [посиланням](https://drive.google.com/file/d/151Fw8yNkpEeuaPa5S5I1cDx9BrJ8aSts/view?usp=sharing).
+> Щоб додати коментар перейдіть за [посиланням](https://drive.google.com/open?id=11uzv1YvEiL_qTcz0k4DfcFkJ3S2Yr_tc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMjA2OTc1MzI3OSw2NzMxOTI2M119
 -->
