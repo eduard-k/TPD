@@ -38,12 +38,13 @@
 - LeanStack / Loomio - стати учасником проекту - робота у стартапі
 
 Суттєвою частиною проекту є використання інформаційних технологій, підходів зі світу open source та стартапів у суспільних проектах. Лог проекту за [посиланням](https://eduard-k.github.io/TPD/changelog).
-або написати особисто [@eduard_k](https://twitter.com/eduard_k)
+
+[@eduard_k](https://twitter.com/eduard_k)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
 -->tpd.withdraft.com/pages/1193055).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzA4ODQxOSwtMTM1NDgxMzA1Miw3MD
-YyNjk0MTYsLTQxODk4MDMwMiw3NDc2NzUyMjgsLTg2ODQzOTg4
-XX0=
+eyJoaXN0b3J5IjpbMjA1Mzk0Nzg4LC0xMzU0ODEzMDUyLDcwNj
+I2OTQxNiwtNDE4OTgwMzAyLDc0NzY3NTIyOCwtODY4NDM5ODhd
+fQ==
 -->
