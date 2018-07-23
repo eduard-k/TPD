@@ -1,4 +1,4 @@
-<!--файл Приклад-->
+<!--Приклад-->
 ## Фонди
 Гроші, що проходять через або керуються організацією, відносяться до наступних категорій:
 
@@ -49,6 +49,6 @@ eyJoaXN0b3J5IjpbMTQxNDM2NDI2Ml19
 
 Для початку діяльності організації потрібно 11 учасників з щорічним внеском у 12 тис грн.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDY5NTgxNiwtMTA1ODQ0NDg2MSwtOT
+eyJoaXN0b3J5IjpbMTcxODAzNjIzNCwtMTA1ODQ0NDg2MSwtOT
 EyODA0MDg1XX0=
 -->
