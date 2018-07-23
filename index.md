@@ -41,10 +41,7 @@
 
 [@eduard_k](https://twitter.com/eduard_k)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNTk0MzEzLC0xMDc1NDgzMjg5LC0xMz
-U0ODEzMDUyLDcwNjI2OTQxNiwtNDE4OTgwMzAyLDc0NzY3NTIy
-OCwtODY4NDM5ODhdfQ==
+eyJoaXN0b3J5IjpbMTI3NjA2MTc5OSwzMjA1OTQzMTMsLTEwNz
+U0ODMyODksLTEzNTQ4MTMwNTIsNzA2MjY5NDE2LC00MTg5ODAz
+MDIsNzQ3Njc1MjI4LC04Njg0Mzk4OF19
 -->
