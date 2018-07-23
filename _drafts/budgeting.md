@@ -1,4 +1,4 @@
-<!--файл Спільнокошт-->
+<!--Спільнокошт-->
 Гроші, що проходять через або керуються організацією, відносяться до наступних категорій:
 
 - Постійні витрати
@@ -29,6 +29,6 @@
 
 > Щоб додати коментар перейдіть за [посиланням](https://drive.google.com/open?id=11uzv1YvEiL_qTcz0k4DfcFkJ3S2Yr_tc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjk0NzEyOCwyMDY5NzUzMjc5LDY3Mz
+eyJoaXN0b3J5IjpbMTM2NTY3NDQ0NCwyMDY5NzUzMjc5LDY3Mz
 E5MjYzXX0=
 -->
