@@ -30,3 +30,9 @@
 ### v0.2
 
 - Переглянуто мету проекту
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYyNzQyMjI2NCwtNjg4NjkwNjAwXX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NzEwMDE5NDBdfQ==
+-->
