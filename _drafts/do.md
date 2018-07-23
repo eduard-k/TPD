@@ -1,4 +1,4 @@
-<!--файл Дій-->
+<!--Дій-->
 Робоча назва проекту - «Think tank + Participatory Budgeting + Do» (TPD). В перекладі на українську це означає «Мозковий центр + Спільнокошт + Дій» 
 
 Організація надає платформу та узгоджує стандарти співпраці. Проекти реалізовують робочі групи.
@@ -25,5 +25,5 @@
 
 Перелік програм в описі проекту в MLO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMDI1MTc0LDE2MDAzODAxNTRdfQ==
+eyJoaXN0b3J5IjpbLTg4NzQwMjg1MiwxNjAwMzgwMTU0XX0=
 -->
