@@ -1,3 +1,4 @@
+<!--файл Л-->
 ### v0.8
 
 - Сайт перенесено на GitHub
@@ -31,5 +32,6 @@
 
 - Переглянуто мету проекту
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjA4NjkyMiwtMTY3MTAwMTk0MF19
+eyJoaXN0b3J5IjpbLTEyNjE5MTMwOTIsLTc1MjA4NjkyMiwtMT
+Y3MTAwMTk0MF19
 -->
