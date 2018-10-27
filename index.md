@@ -30,7 +30,7 @@
 
 Модель розповсюджується "з відкритим кодом" - будь-яка інша організація може використати її. Але саме ця організація концентрується на питаннях розвитку МСБ в Україні. Це досягається, в тому числі, через вимоги до потенційних учасників. В першу чергу залучаються підприємці, власники діючого бізнесу.
 
-Проект знаходиться на стадії бета - доступний публічно а .
+Проект знаходиться на стадії бета - доступний публічно але постійно змінюється .
 
 ### Як долучитись
 - Підписатись на [тлог проекту](https://prostir.tumblr.com), залишити [відгук або запитання](https://prostir.tumblr.com/ask)
@@ -42,7 +42,7 @@
 
 [@eduard_k](https://twitter.com/eduard_k)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA4NjgxOTQsLTE4MjY3OTcwNjUsOD
+eyJoaXN0b3J5IjpbLTEzNTUxMDUxNTQsLTE4MjY3OTcwNjUsOD
 U1MzI0MDA5LC04OTM1MjA2NjUsMTI3NjA2MTc5OSwzMjA1OTQz
 MTMsLTEwNzU0ODMyODksLTEzNTQ4MTMwNTIsNzA2MjY5NDE2LC
 00MTg5ODAzMDIsNzQ3Njc1MjI4LC04Njg0Mzk4OF19
