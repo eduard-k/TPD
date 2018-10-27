@@ -35,15 +35,15 @@
 ### Як долучитись
 - Підписатись на [тлог проекту](https://prostir.tumblr.com), залишити [відгук або запитання](https://prostir.tumblr.com/ask)
 - Запропонувати дієві організації підприємців
-- Draft / StackEdit / GitHub - запропонувати зміни до цього сайту
+- StackEdit / GitHub Pages - запропонувати зміни до цього сайту
 - LeanStack / Loomio - стати учасником проекту - робота у стартапі
 
 Суттєвою частиною проекту є використання інформаційних технологій, підходів зі світу open source та стартапів у суспільних проектах. Лог проекту за [посиланням](https://eduard-k.github.io/TPD/changelog).
 
 [@eduard_k](https://twitter.com/eduard_k)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY3OTcwNjUsODU1MzI0MDA5LC04OT
-M1MjA2NjUsMTI3NjA2MTc5OSwzMjA1OTQzMTMsLTEwNzU0ODMy
-ODksLTEzNTQ4MTMwNTIsNzA2MjY5NDE2LC00MTg5ODAzMDIsNz
-Q3Njc1MjI4LC04Njg0Mzk4OF19
+eyJoaXN0b3J5IjpbLTgwMTAzMjUsLTE4MjY3OTcwNjUsODU1Mz
+I0MDA5LC04OTM1MjA2NjUsMTI3NjA2MTc5OSwzMjA1OTQzMTMs
+LTEwNzU0ODMyODksLTEzNTQ4MTMwNTIsNzA2MjY5NDE2LC00MT
+g5ODAzMDIsNzQ3Njc1MjI4LC04Njg0Mzk4OF19
 -->
