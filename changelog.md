@@ -9,7 +9,6 @@
 - Сайт перенесено на GitHub
 - Коротке посилання на сайт http://cli.re/6JyN9b
 - Сформульована місія
-- Сайт перенесено на GitHub
 
 ### v0.7
 
@@ -41,6 +40,6 @@
 eyJoaXN0b3J5IjpbMTYyNzQyMjI2NCwtNjg4NjkwNjAwXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NjU1NjcsLTIxMjIwNzU4NDgsLTc1Mj
-A4NjkyMiwtMTY3MTAwMTk0MF19
+eyJoaXN0b3J5IjpbMTExMzExMTEzMiwtMjEyMjA3NTg0OCwtNz
+UyMDg2OTIyLC0xNjcxMDAxOTQwXX0=
 -->
