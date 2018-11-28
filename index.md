@@ -33,7 +33,7 @@
 
 Отримані кошти розділяються на три частини - поточна діяльність організації, фінансування ініціатив, спільне фінансування великих проектів. Передбачається що частина внесків кожного з учасникіи потрапляє на його власний рахунок у організації. Учасник фонду самостійно вирішує які саме ініціативи фінансувати з цих коштів. З іншого боку модель передбачає спільне фінансування стратегічних проектів, зокрема тих, що пройшли через венчурне фінансування на попередньому етапі.
 
- Докладніше про фінансові Приклад розрахункиів [нза сторінціпосиланням](https://eduard-k.github.io/TPD/example).
+ Докладніше про фінансові Приклад розрахунків за [посиланням](https://eduard-k.github.io/TPD/example).
 
 ### Про проект
 Ідея «підтримки соціальних ініціатив» є занадто загальною, щоб отримати масову підтримку. А без участі багатьох учасників організація не зможе стати фінансово потужною. 
@@ -55,9 +55,9 @@
 eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDI1Mzg2LC0xMjAzNTI4MDkxLC0xMz
-U1MTA1MTU0LC0xODI2Nzk3MDY1LDg1NTMyNDAwOSwtODkzNTIw
-NjY1LDEyNzYwNjE3OTksMzIwNTk0MzEzLC0xMDc1NDgzMjg5LC
-0xMzU0ODEzMDUyLDcwNjI2OTQxNiwtNDE4OTgwMzAyLDc0NzY3
-NTIyOCwtODY4NDM5ODhdfQ==
+eyJoaXN0b3J5IjpbMTEzNzY1NDA5NywtNDAwMjUzODYsLTEyMD
+M1MjgwOTEsLTEzNTUxMDUxNTQsLTE4MjY3OTcwNjUsODU1MzI0
+MDA5LC04OTM1MjA2NjUsMTI3NjA2MTc5OSwzMjA1OTQzMTMsLT
+EwNzU0ODMyODksLTEzNTQ4MTMwNTIsNzA2MjY5NDE2LC00MTg5
+ODAzMDIsNzQ3Njc1MjI4LC04Njg0Mzk4OF19
 -->
