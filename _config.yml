@@ -2,4 +2,4 @@ title: Думай, Спільнокошт, Дій
 baseurl: /TPD
 markdown: kramdown
 theme: jekyll-theme-cayman
-permalink: /{{ site.baseurl }}/blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
