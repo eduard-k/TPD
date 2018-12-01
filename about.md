@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!--Про проект-->
 ## Історія
 <img src="/TPD/images/UrbanSpace100.png" width="189" height="123" alt="Urban Space 100" align="right"/>
@@ -50,7 +54,6 @@
 
 Суттєвою частиною проекту є використання інформаційних технологій, підходів зі світу open source та стартапів у суспільних проектах. Лог проекту за [посиланням](https://eduard-k.github.io/TPD/changelog).
 
-[@eduard_k](https://twitter.com/eduard_k)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzc1NDExMDk3XX0=
 -->
