@@ -1,4 +1,5 @@
-name: Думай, Спільнокошт, Дій
+title: Думай, Спільнокошт, Дій
+baseurl: /TPD
 markdown: kramdown
 theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
