@@ -6,6 +6,12 @@ date: 2018-12-01
 
 Сайт проекта перенёс на [Jekyll](http://jekyllrb.com). По-прежнему могу использовать Markdown для подготовки текстов, есть надежда со временем настроить совместную работу через "ветвление и слияние" на [GitHub](https://github.com/eduard-k/TPD/). Добавилась возможность собирать информацию из других веб-сервисов на один сайт с помощью iFrame.
 
+<div class="coolclass" markdown = 1>
+  <div class="anotherClass">stuff </div>
+
+  I **love** markdown
+</div
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
