@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "Лог проекту"
-date: 2018-12-02
+layout: default
 ---
 
 ### v1.0
