@@ -6,7 +6,7 @@ date: 2018-12-02
 
 ### v1.0
 
-- Сайт перенесено на двигун [Jekyll](https://jekyllrb.com) ([детальніше]({{ site.baseurl }}/_posts/2018-10-10-Foundation-for-Liberal-Initiatives))
+- Сайт перенесено на двигун [Jekyll](https://jekyllrb.com) ([детальніше]({{ site.baseurl }}/blog/2018/12/01/Jekyll-and-iFrame))
 
 ### v0.9 (не успішний реліз)
 
