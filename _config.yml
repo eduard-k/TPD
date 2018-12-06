@@ -27,6 +27,7 @@ github_username:  eduard-k
 # Build settings
 markdown: kramdown
 theme: minima
+# permalink: /blog/:year/:month/:day/:title #эта строка была при настройке темы jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
