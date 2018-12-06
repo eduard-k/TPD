@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "TPD" є абревіатурою від "Think tank + Participatory Budgeting + Do".
   Метою проекту є розбудова організації, що буде діяти за алгоритмом
   "Думай - Спільнокошт - Дій".
-baseurl: /TPD # the subpath of your site, e.g. /blog
+baseurl: "/TPD" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eduard_k
 github_username:  eduard-k
