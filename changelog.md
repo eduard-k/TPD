@@ -4,7 +4,8 @@ layout: default
 
 ### v1.0
 
-- Сайт перенесено на двигун [Jekyll](https://jekyllrb.com) ([детальніше]({{ site.baseurl }}/blog/2018/12/01/Jekyll-and-iFrame))
+- Сайт перенесено на двигун [Jekyll](https://jekyllrb.com) ([детальніше]({% post_url 2018-12-01-Jekyll-and-iFrame %}))
+- Опубліковані [параметри проекту]({% post_url 2018-10-10-Foundation-for-Liberal-Initiatives %})
 
 ### v0.9 (не успішний реліз)
 
@@ -28,7 +29,7 @@ layout: default
 
 ### v0.5
 
-- Зроблено [форум по НБФБ](http://bit.ly/nbfb-ua) в Kialo (картування аргументів) 
+- Зроблено [форум по НБФБ](http://bit.ly/nbfb-ua) в Kialo (картування аргументів)
 
 ### v0.4
 
