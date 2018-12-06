@@ -2,6 +2,7 @@
 layout: post
 title: "Фонд ліберальних ініціатив"
 date: 2018-10-10
+categories: publication
 ---
 
 [Орігінал](https://medium.com/@eduard_k/фонд-ліберальних-ініціатив-6f10a59ff0a1)
