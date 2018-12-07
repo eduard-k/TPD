@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Про проект
+permalink: /about/
 ---
 
 <!--Про проект-->
