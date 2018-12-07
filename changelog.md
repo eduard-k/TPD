@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Лог проекту
+permalink: /changelog/
 ---
 
 ### v1.0
