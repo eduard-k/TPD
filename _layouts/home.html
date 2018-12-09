@@ -10,9 +10,10 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Публікації" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
+    {% for category in site.categories %}
+      <h3 class="post-list-heading">{{ category[0] }}</h3>
+      <ul class="post-list">
+      {% for post in category[1] %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -25,9 +26,10 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
-      {%- endfor -%}
+      {% endfor %}
     </ul>
 
+    {% endfor %}
     <p class="rss-subscribe">читати <a href="{{ "/feed.xml" | relative_url }}">за допомогою RSS</a></p>
   {%- endif -%}
 
