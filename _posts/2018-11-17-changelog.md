@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "v 0.x"
+title: "v0.x"
 date: 2018-11-17
 categories: [Changelog]
-tags: [v 0.x]
+tags: [v0.x]
 ---
 
 ### v0.9 (не успішний реліз)
