@@ -2,7 +2,7 @@
 layout: post
 title: "Переход на Jekyll"
 date: 2018-12-01
-categories: [Тлог]
+categories: [tlog]
 tags: [Jekyll]
 ---
 

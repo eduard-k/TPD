@@ -2,7 +2,7 @@
 layout: post
 title: "Фонд ліберальних ініціатив"
 date: 2018-10-10
-categories: [Блог]
+categories: [Blog]
 tags: [Medium]
 ---
 

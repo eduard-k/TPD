@@ -2,7 +2,7 @@
 layout: post
 title: "v 0.x"
 date: 2018-11-17
-categories: [Лог проекту]
+categories: [Changelog]
 tags: [v 0.x]
 ---
 
