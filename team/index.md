@@ -1,3 +1,9 @@
+---
+layout: page
+title: Команда
+permalink: /team/
+---
+
 # Прийняття рішень в КПУ
 Для узгодження позицій в КПУ використовується веб-сервіс Люмія ([Loomio](https://www.loomio.org/dashboard)).
 
