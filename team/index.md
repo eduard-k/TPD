@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 В КПУ для прийняття рішень використовується
-- [консенсусно-орієнтований підхід]({{ "/team/consensus_rules" | relative_url }})
+- [консенсусно-орієнтований підхід](https://b2future.gitbooks.io/rules-for-loomio/content/priinyattya-rshen-v-kp.html)
 - веб-сервіс [Люмія](https://www.loomio.org)
-- Рада для прийняття рішень у випадку блокуючого голосу
+- Рада для пошуку рішень
 - чат WhatsApp для сповіщень
